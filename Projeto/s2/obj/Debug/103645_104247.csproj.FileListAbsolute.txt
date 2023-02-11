@@ -1,0 +1,40 @@
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\bin\Debug\s2.exe.config
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\bin\Debug\s2.exe
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\bin\Debug\s2.pdb
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\103645_104247.csproj.AssemblyReference.cache
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.Encomenda.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.Form1.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.Form2.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.Fornecedores.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.ProdutDetails.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.Properties.Resources.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.UserControl1.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.UserControl2.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.UserControl3.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.UserControl4.resources
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\103645_104247.csproj.GenerateResource.cache
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\103645_104247.csproj.CoreCompileInputs.cache
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\103645_104247.csproj.CopyComplete
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.exe
+C:\Users\manug\OneDrive\Área de Trabalho\Universidade\2º Ano\BD\Projeto\s2\obj\Debug\s2.pdb
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\bin\Debug\s2.exe.config
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\bin\Debug\s2.exe
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\bin\Debug\s2.pdb
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\103645_104247.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\103645_104247.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.Encomenda.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.Form1.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.Form2.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.Fornecedores.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.ProdutDetails.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.UserControl1.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.UserControl2.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.UserControl3.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.UserControl4.resources
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\103645_104247.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\103645_104247.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\103645_104247.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.exe
+C:\Users\Utilizador\Desktop\Universidade\Projeto\s2\obj\Debug\s2.pdb
